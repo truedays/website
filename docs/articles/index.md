@@ -11,7 +11,7 @@ Blog below contains major updates, migration guides and helpful articles related
 Articles related to Iconify project that are too long for documentation:
 
 - [How icons are validated and cleaned up in Iconify](./cleaning-up-icons/index.md).
-- [How add an icon set to Iconify](./add-icon-set/index.md).
+- [How to add an icon set to Iconify](./add-icon-set/index.md).
 
 ## Animated icons
 
